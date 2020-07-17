@@ -9,8 +9,7 @@ from fastai import *
 # from fastai.vision import *
 from fastai.text import *
 
-export_file_url ='https://drive.google.com/file/d/1Zbtqw3pUCyOhReSPQDvX6jMcK9ax1k_P/view?usp=sharing'
-#'https://drive.google.com/uc?export=download&id=1Zbtqw3pUCyOhReSPQDvX6jMcK9ax1k_P'
+export_file_url ='https://drive.google.com/uc?export=download&id=1Zbtqw3pUCyOhReSPQDvX6jMcK9ax1k_P'
 
 # export_file_url = 'https://www.dropbox.com/s/xhnvw0axn6xjbk9/export.pkl?dl=1'
 export_file_name = 'export.pkl'
