@@ -8,8 +8,8 @@ from io import StringIO
 from fastai import *
 # from fastai.vision import *
 from fastai.text import *
-
-export_file_url ='https://drive.google.com/uc?export=download&id=1tmvefWFO5FZq8fusUMUbH5HZZIk8ABZT'
+export_file_url='https://drive.google.com/uc?export=download&id=17ORXcqeYwJTachOWKVH87We6CPFpqbj_'
+#export_file_url ='https://drive.google.com/uc?export=download&id=1tmvefWFO5FZq8fusUMUbH5HZZIk8ABZT'
 
 #export_file_url = 'https://www.dropbox.com/s/xhnvw0axn6xjbk9/export.pkl?dl=1'
 export_file_name = 'export.pkl'
